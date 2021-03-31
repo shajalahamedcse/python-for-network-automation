@@ -1,13 +1,17 @@
 ### Test Program 1 
 
--> r=3,c=4
+Input: 3,4
 
+Output: 
     ****
     ****
     ****
-    
+
 ### Test Program 2
--> 5
+
+Input: 5
+
+Output:
 
     *
     **
@@ -17,8 +21,9 @@
 
 ### Test Program 3:
 
--> 4
+Input: 4
 
+Output:
     ****
     ***
     **
