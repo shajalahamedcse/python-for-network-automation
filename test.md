@@ -3,6 +3,7 @@
 Input: 3,4
 
 Output: 
+
     ****
     ****
     ****
@@ -24,6 +25,7 @@ Output:
 Input: 4
 
 Output:
+
     ****
     ***
     **
